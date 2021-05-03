@@ -4,7 +4,7 @@
 
 A confusion matrix is a n * n matrix, where n represent the number of classes in the target variable. There can be multiple classes in the dependent variable.
 
-!(https://github.com/ujjwal-dhiman-ai/Evaluation-Metrics-For-Classification/blob/main/Screenshot%20(123).png)
+https://github.com/ujjwal-dhiman-ai/Evaluation-Metrics-For-Classification/blob/main/Screenshot%20(123).png?raw=true
 
 ## 2. Accuracy 
 
