@@ -60,6 +60,8 @@ Recall = Predictions Actually Positive / Total Actual Positive
 
 Recall = TP / (TP + FN)
 
+![Screenshot (128)](https://user-images.githubusercontent.com/63502418/116850110-a653e380-ac0d-11eb-80af-8adf0c2c83a3.png)
+
 ## 4. The ROC Curve
 
 The recevier operating characteristics (ROC) curve is very similar to the precision/recall curve, but instead of plotting precision vs recall, the ROC curve plots the true positive rate(recall) against the false positive rate.
@@ -67,6 +69,8 @@ The recevier operating characteristics (ROC) curve is very similar to the precis
 False Positive Rate (FPR) = 1 - True Negative Rate(TNR), where TNR is specificity.
 
 Hence ROC plots sensitivity(recall) versus 1 - specificity
+
+![Screenshot (125)](https://user-images.githubusercontent.com/63502418/116850014-799fcc00-ac0d-11eb-96df-a56a1c35c866.png)
 
 We can compare two classifiers by measuring the area under the curve(AUC). Classifier with higher AUC is considered as best.
 Perfect Classifier has ROC AUC = 1
