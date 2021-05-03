@@ -2,13 +2,13 @@
 
 ## Table Of Content
 
-![1. Confusion Matrix](https://github.com/ujjwal-dhiman-ai/Evaluation-Metrics-For-Classification/blob/main/README.md#1-confusion-matrix)
+[1. Confusion Matrix](https://github.com/ujjwal-dhiman-ai/Evaluation-Metrics-For-Classification/blob/main/README.md#1-confusion-matrix)
 
-![2. Accuracy](https://github.com/ujjwal-dhiman-ai/Evaluation-Metrics-For-Classification/blob/main/README.md#2-accuracy)
+[2. Accuracy](https://github.com/ujjwal-dhiman-ai/Evaluation-Metrics-For-Classification/blob/main/README.md#2-accuracy)
 
-![3. Precision and Recall](https://github.com/ujjwal-dhiman-ai/Evaluation-Metrics-For-Classification/blob/main/README.md#3-precision-and-recall)
+[3. Precision and Recall](https://github.com/ujjwal-dhiman-ai/Evaluation-Metrics-For-Classification/blob/main/README.md#3-precision-and-recall)
 
-![4. The ROC Curve](https://github.com/ujjwal-dhiman-ai/Evaluation-Metrics-For-Classification/blob/main/README.md#4-the-roc-curve)
+[4. The ROC Curve](https://github.com/ujjwal-dhiman-ai/Evaluation-Metrics-For-Classification/blob/main/README.md#4-the-roc-curve)
 
 ## 1. Confusion Matrix
 
