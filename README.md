@@ -1,4 +1,4 @@
-# Evaluation-Metrics-For-Classification
+# Evaluation Metrics For Classification
 
 ## Table Of Content
 
