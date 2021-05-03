@@ -34,7 +34,17 @@ Each row in this matrix represent the actual class values. Columns represent the
 
 It is the ratio of correct predicted values over the total predicted values.
 
-Accuracy = Correct Predictions / Total Predictions
+Accuracy = Correct Predictions / Total Predictions = (TP + TN)/(TP + FN + FP + TN)
+
+### Alternatives of  Accuracy
+
+**True Positive Rate:** = TP / (TP + FN)
+
+**False Negative Rate:** = FN / (TP + FN)
+
+**TRUE Negative Rate:** = TN / (FP + TN)
+
+**False Positive Rate:** = FP / (FP + TN)
 
 ## 3. Precision and Recall
 
@@ -42,9 +52,13 @@ Accuracy = Correct Predictions / Total Predictions
 
 Precision = Predictions Actually Positive / Total Predicted Positive
 
+Precision = TP / (TP + FP)
+
 **Recall:** Out of all actual positive, how many are predicted positive
 
 Recall = Predictions Actually Positive / Total Actual Positive
+
+Recall = TP / (TP + FN)
 
 ## 4. The ROC Curve
 
