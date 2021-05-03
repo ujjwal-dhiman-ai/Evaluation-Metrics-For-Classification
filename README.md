@@ -1,5 +1,15 @@
 # Evaluation-Metrics-For-Classification
 
+## Table Of Content
+
+![1. Confusion Matrix](https://github.com/ujjwal-dhiman-ai/Evaluation-Metrics-For-Classification/blob/main/README.md#1-confusion-matrix)
+
+![2. Accuracy](https://github.com/ujjwal-dhiman-ai/Evaluation-Metrics-For-Classification/blob/main/README.md#2-accuracy)
+
+![3. Precision and Recall](https://github.com/ujjwal-dhiman-ai/Evaluation-Metrics-For-Classification/blob/main/README.md#3-precision-and-recall)
+
+![4. The ROC Curve](https://github.com/ujjwal-dhiman-ai/Evaluation-Metrics-For-Classification/blob/main/README.md#4-the-roc-curve)
+
 ## 1. Confusion Matrix
 
 A confusion matrix is a n * n matrix, where n represent the number of classes in the target variable. There can be multiple classes in the dependent variable.
