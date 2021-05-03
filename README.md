@@ -20,8 +20,7 @@ Total Actual Negative = FP + TN
 
 Each row in this matrix represent the actual class values. Columns represent the predicted class values.
 
-**Actual Value**  **Predicted Value**  
-
+**Actual Value**   **Predicted Value**  
       1                   1                 TP
       
       0                   1                 FP
