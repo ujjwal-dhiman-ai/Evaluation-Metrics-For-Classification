@@ -6,6 +6,21 @@ A confusion matrix is a n * n matrix, where n represent the number of classes in
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/63502418/116848496-60495080-ac0a-11eb-91bb-8c8d87dfef27.png)
 
+TN = True Negative (Nahi hona chahiye tha nahi hai)
+TP = True Positive (Hona chahiye tha aur hai)
+FN = False Negative (Hona chahiye tha par nahi hai)
+FP = False Positive (Nahi hona chahiye tha par hai)
+
+Total Actual Positive = TP + FN
+Total Actual Negative = FP + TN
+Each row in this matrix represent the actual class values. Columns represent the predicted class values.
+
+**Actual Value**  **Predicted Value**  
+      1                   1                 TP
+      0                   1                 FP
+      1                   0                 FN
+      0                   0                 TN
+
 ## 2. Accuracy 
 
 It is the ratio of correct predicted values over the total predicted values.
